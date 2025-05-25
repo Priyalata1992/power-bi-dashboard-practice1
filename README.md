@@ -17,4 +17,6 @@ This project analyzes mobile phone sales data using Power BI.
 - Power BI Desktop
 - Excel (for data cleaning)
 
-file:///C:/Users/user/Downloads/mobile%20sale%20data%20power%20bi%20practice.pdf
+![image](https://github.com/user-attachments/assets/a29c0f74-b6f4-46a4-b66a-8409a8c1cecf)
+
+
